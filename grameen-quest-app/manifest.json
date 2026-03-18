@@ -1,0 +1,21 @@
+﻿{
+  "name": "Grameen Quest",
+  "short_name": "GQuest",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f1e9",
+  "theme_color": "#1e7e52",
+  "description": "Gamified learning app for classes 6 to 12.",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
